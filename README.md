@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔱 About Me:
 Computer Science student at Faci Wyden<br>Currently studying Game Development in:<br>- Roblox Studio<br>- Minecraft modding and datapacks<br>
 
 
